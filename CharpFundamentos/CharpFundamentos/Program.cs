@@ -7,3 +7,10 @@ int idade2 = 25; //Correto inicia com 25;
 
 var texto = "Testando";
 Console.WriteLine(texto);
+
+
+const int IDADE_MINIMA = 0; //Correto, inicia com ZERO;
+//const var IDADE = 2; //Errado, a constante não pode ter uma variável com var
+
+
+Console.WriteLine(IDADE_MINIMA);
