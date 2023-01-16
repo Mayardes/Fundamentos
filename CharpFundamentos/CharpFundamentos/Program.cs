@@ -14,3 +14,6 @@ const int IDADE_MINIMA = 0; //Correto, inicia com ZERO;
 
 
 Console.WriteLine(IDADE_MINIMA);
+
+byte meuByte = 127;
+sbyte meubyteNegativo = -127; 
